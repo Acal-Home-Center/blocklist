@@ -1,3 +1,5 @@
+# Lista de IP detectado pelo o LUMU suspeita de TOR NEDES
+
 45.13.225.69
 152.53.65.169
 147.135.208.89
