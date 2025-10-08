@@ -43,7 +43,7 @@
 37.48.81.43/32
 
 # Lista de IP notificados pela a NETWORK e LUMU com suspeita de Malware
-#BLOCO A - APROVADO
+#BLOCO A 
 104.131.163.161/32
 104.131.200.228/32
 104.248.1.208/32
